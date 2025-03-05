@@ -1,1 +1,6 @@
+title: Jito Restaking Documentation
+longtitle: Jito Restaking Documentation
+description: Jito Restaking Documentation
 remote_theme: sighingnow/jekyll-gitbook
+
+syntax_highlighter_style: colorful

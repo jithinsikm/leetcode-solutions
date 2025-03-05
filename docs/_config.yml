@@ -1,8 +1,7 @@
-title: Jito Restaking Documentation
-longtitle: Jito Restaking Documentation
-description: Jito Restaking Documentation
 remote_theme: sighingnow/jekyll-gitbook
-
+title: BODS for Linked Data
+description: The Beneficial Ownership Data Standard v0.4 RDF data model
+baseurl: '/'
 syntax_highlighter_style: colorful
 
 collections:

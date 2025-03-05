@@ -10,3 +10,6 @@ collections:
     output: true
 ordered_collections:
   - pages
+
+toc:
+  enabled: true

@@ -4,3 +4,6 @@ description: Jito Restaking Documentation
 remote_theme: sighingnow/jekyll-gitbook
 
 syntax_highlighter_style: colorful
+
+ordered_collections:
+  - pages

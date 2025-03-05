@@ -3,3 +3,9 @@ title: BODS for Linked Data
 description: The Beneficial Ownership Data Standard v0.4 RDF data model
 baseurl: '/'
 syntax_highlighter_style: colorful
+collections:
+  pages:
+    output: true
+ordered_collections:
+  - pages
+

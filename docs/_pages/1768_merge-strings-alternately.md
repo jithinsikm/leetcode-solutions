@@ -1,5 +1,5 @@
 ---
-title: Merge Strings Alternately
+title: 1768. Merge Strings Alternately
 layout: post
 ---
 ## 1768. Merge Strings Alternately
